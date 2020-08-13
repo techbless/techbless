@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-![Techbless's github stats](https://github-readme-stats.vercel.app/api?username=techbless&show_icons=true&hide=["contribs"]&theme=merko)
+![Techbless's github stats](https://github-readme-stats.vercel.app/api?username=techbless&show_icons=true&hide=["contribs"])
 
 
 ### Interest

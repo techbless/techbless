@@ -1,8 +1,5 @@
 ### Hi there 👋 
 
-![Techbless's github stats](https://github-readme-stats.vercel.app/api?username=techbless&show_icons=true&hide=["contribs"]&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
-
 ### Interest
 - Backend Development
 - TypeScript, Node.js, Java, Spring Boot

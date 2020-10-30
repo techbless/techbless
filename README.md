@@ -14,6 +14,7 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-FB5BC5?style=flat-square&logo=github&link=https://techbless.github.io/)](https://techbless.github.io//)	
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:techblessme@gmail.com)](mailto:techblessme@gmail.com)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftechbless)](https://hits.seeyoufarm.com)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=techblessme)](https://solved.ac/techblessme)
 <!--
 **techbless/techbless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

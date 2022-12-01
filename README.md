@@ -1,16 +1,15 @@
-### Hi there 👋 
 
 ### Interest
 - Backend Development
-- TypeScript, Node.js, Java, Spring Boot
-- Machine Learning
-- Docker
-
 
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-FB5BC5?style=flat-square&logo=github&link=https://techbless.github.io/)](https://techbless.github.io//)	
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:techblessme@gmail.com)](mailto:techblessme@gmail.com)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftechbless)](https://hits.seeyoufarm.com)
+
+[![Vin's GitHub stats](https://github-readme-stats.vercel.app/api?username=techbless&count_private=true&include_all_commits&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **techbless/techbless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

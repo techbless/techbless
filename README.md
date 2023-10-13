@@ -1,5 +1,6 @@
 
 ### Interest
+- Aritificial Intelligence (Computer Vision, Generative Model)
 - Backend Development
 
 

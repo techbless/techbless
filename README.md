@@ -1,6 +1,6 @@
 
 ### Interest
-- Aritificial Intelligence (Computer Vision, Generative Model)
+- Aritificial Intelligence (GAN, Super Resolution, Optimization, Computer Vision)
 - Backend Development
 
 

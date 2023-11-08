@@ -12,7 +12,7 @@ My focus has now shifted towards the exciting field of machine learning, with a 
   <a href="https://techbless.github.io/about-me" target="_blank">
     <img src="https://img.shields.io/badge/website-305D61.svg?&style=for-the-badge&logo=About.me&logoColor=ffffff&labelColor=305D61&logoWidth=20"/>
   </a>
-  <a href="www.linkedin.com/in/vinchang" target="_blank">
+  <a href="https://www.linkedin.com/in/vinchang" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-305D61.svg?&style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=305D61&logoWidth=20"/>
   </a>
   <a href="https://techbless.github.io/about-me/Yunbin_CV.pdf" target="_blank">

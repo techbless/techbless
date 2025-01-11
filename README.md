@@ -22,13 +22,10 @@ My focus has now shifted towards the exciting field of machine learning, with a 
     <img src="https://img.shields.io/badge/blog-305D61.svg?&style=for-the-badge&logo=ReadtheDocs&logoColor=ffffff&labelColor=305D61&logoWidth=20"/>
   </a>
   
-<br/>
 </div>
 
-   
-```
-/* This is a brief introduction; for more details, please visit my website, LinkedIn, or refer to my CV linked above. */
-```
+// This is a brief introduction; for more details, please visit my website, LinkedIn, or refer to my CV linked above.
+
 ## 💻 Experiences
 | Award 	| Date                         	          |Job Title| Task                  	| 
 |-------------	|---------------------------------|---------------------------------   |-----------------------	|

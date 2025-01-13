@@ -27,7 +27,7 @@ My focus has now shifted towards the exciting field of machine learning, with a 
 // This is a brief introduction; for more details, please visit my website, LinkedIn, or refer to my CV linked above.
 
 ## 💻 Experiences
-| Award 	| Date                         	          |Job Title| Task                  	| 
+| Experience 	| Date                         	          |Job Title| Task                  	| 
 |-------------	|---------------------------------|---------------------------------   |-----------------------	|
 | Deepseers      	| 2024.02~    | Vision Engineer |  연구실 내 스타트업 창업맴버로 반도체 패키징 비전 검사 솔루션 개발
 | Hansung University AML Lab.      	| 2023.10 - 2024.02   |  Undergraduate Researcher | 반도체 패키징 비전 검사 솔루션 개발 및 데이터 증강을 위한 GAN 메모리 효율 향상 연구

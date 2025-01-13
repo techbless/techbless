@@ -30,7 +30,7 @@ My focus has now shifted towards the exciting field of machine learning, with a 
 | Experience 	| Date                         	          |Job Title| Task                  	| 
 |-------------	|---------------------------------|---------------------------------   |-----------------------	|
 | Deepseers      	| 2024.02~    | Vision Engineer |  연구실 내 스타트업 창업맴버로 반도체 패키징 비전 검사 솔루션 개발
-| Hansung University AML Lab.      	| 2023.10 - 2024.02   |  Undergraduate Researcher | 반도체 패키징 비전 검사 솔루션 개발 및 데이터 증강을 위한 GAN 메모리 효율 향상 연구
+| Hansung University AML Lab.      	| 2023.05 - 2024.02   |  Undergraduate Researcher | 반도체 패키징 비전 검사 솔루션 개발 및 데이터 증강을 위한 GAN 메모리 효율 향상 연구
 | STAFACT      	| 2022.06 - 2024.05   | Backend Developer | Dropshipping 플랫폼 및 SCM 개발    |
 | United States Forces Korea, Headquarter      	| 2020.12 - 2022.06   | Admin Specialist, KATUSA | J1 Data Management    |
 
